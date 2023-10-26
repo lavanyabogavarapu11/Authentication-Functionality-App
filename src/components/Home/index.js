@@ -10,7 +10,7 @@ const Home = () => (
   <>
     <Header />
     <div className="home-container">
-      <h1 className="home">Home</h1>
+      <h1 className="home">Home Route </h1>
       <LogoutButton />
     </div>
   </>
